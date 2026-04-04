@@ -1,8 +1,13 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=FF6B00&height=200&section=header&text=Michael%20Liu&fontSize=50&fontColor=ffffff)
+<!-- 顶部波浪 -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=FF6B00&height=180&text=Michael%20Liu&fontSize=45&fontColor=fff&section=header)
 
-[![Typing](https://readme-typing-svg.demolab.com/?lines=RAG+%2B+Reflexion+Wargame+Agent;NYU+CS+Graduate+Student)](https://git.io/typing-svg)
+<!-- 打字动画 -->
+[![Typing](https://readme-typing-svg.demolab.com/?lines=RAG+%2B+Reflexion+Wargame+Agent;NYU+CS+%7C+AI+Track;LLM+%2B+Java+%2B+Python&color=FF6B00&width=500)](https://git.io/typing-svg)
 
-[![Skills](https://skillicons.dev/icons?i=python,java,pytorch,langchain,git)](https://skillicons.dev)
-<img src="assets/gitowl.png" width="50">
-![Visitors](https://komarev.com/ghpvc/?username=Michaelliu1017&color=orange&style=flat)
+<!-- 正文内容 -->
+
+<!-- 贡献蛇 -->
+![Snake](https://raw.githubusercontent.com/Michaelliu1017/Michaelliu1017/output/github-contribution-grid-snake.svg)
+
+<!-- 底部波浪 -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=FF6B00&height=100&section=footer)
