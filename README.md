@@ -6,8 +6,5 @@
 
 <!-- 正文内容 -->
 
-<!-- 贡献蛇 -->
-![Snake](https://raw.githubusercontent.com/Michaelliu1017/Michaelliu1017/output/github-contribution-grid-snake.svg)
-
 <!-- 底部波浪 -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=FF6B00&height=100&section=footer)
