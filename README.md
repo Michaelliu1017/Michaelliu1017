@@ -1,4 +1,5 @@
 <!-- 顶部波浪 -->
+<img src="assets/gitbanner.png" >
 <!--  ![Header](https://capsule-render.vercel.app/api?type=waving&color=FF6B00&height=200&text=Michael%20Liu&fontSize=50&fontColor=ffffff&desc=NYU%20CS%20%7C%20AI%20Track%20%7C%20LLM%20Engineer&descSize=20&descAlignY=75)
 
 <!-- 打字动画 -->
