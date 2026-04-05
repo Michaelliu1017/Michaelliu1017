@@ -1,7 +1,7 @@
 <!-- Header -->
 <!-- <img src="assets/gitbanner1.png" > -->
 
-![Header](https://capsule-render.vercel.app/api?type=venom&height=150&color=FF8700&text=Michael%20Liu%20&textBg=false&fontColor=FFFFFF&fontAlign=50&animation=fadeIn&stroke=FFFFFF&strokeWidth=0&desc=Software%20Engineer%20%20|%20Fullstack%20Developer&descAlignY=77)
+![Header](https://capsule-render.vercel.app/api?type=venom&height=150&color=D75F00&text=Michael%20Liu%20&textBg=false&fontColor=FFFFFF&fontAlign=50&animation=fadeIn&stroke=FFFFFF&strokeWidth=0&desc=Software%20Engineer%20|%20NYU%20Courant&descAlignY=77&section=header&reversal=false)
 
 <!-- ![Header](https://capsule-render.vercel.app/api?type=venom&height=150&color=D75F00&text=Michael%20Liu%20&textBg=false&fontColor=FFFFFF&fontAlign=50&animation=fadeIn&stroke=FFFFFF&strokeWidth=0&desc=Software%20Engineer%20%20|%20Fullstack%20Developer&descAlignY=77&section=header&reversal=false) -->
 <!-- Animation -->
