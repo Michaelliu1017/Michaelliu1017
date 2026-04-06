@@ -1,6 +1,6 @@
 <!-- Header -->
 <!-- <img src="assets/gitbanner2.png" > -->
-<img src="assets/gitbanner3.png" height="100">
+<img src="assets/gitbanner3.png" height="200">
 
 <!-- ![Header](https://capsule-render.vercel.app/api?type=venom&height=150&color=FF8700&text=Michael%20Liu%20&textBg=false&fontColor=FFFFFF&fontAlign=50&animation=fadeIn&stroke=FFFFFF&strokeWidth=0&desc=Software%20Engineer%20|%20NYU%20Courant&descAlignY=77&section=header&reversal=false) -->
 
